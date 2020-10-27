@@ -1,0 +1,8 @@
+h1 { border-left: 8px solid red;
+  font-family: "Helvetica", Helvetica, serif;
+  color: black;
+font-weight: 500}
+
+p {color: blue}
+
+p em {color: red}
